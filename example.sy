@@ -1,0 +1,12 @@
+//int foo(int a){
+//   return a+1;
+//}
+int main() {
+	//int a=3;
+    int b=4;
+    //foo(a);
+    if(!!b){
+        b=b-1;
+    }
+	return 0;
+}
